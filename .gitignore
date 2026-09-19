@@ -1,0 +1,35 @@
+# project stuff
+rubric.md
+steps.md
+project-overview.md
+
+# udacity stuff
+udacity_ai_ethics_project_data.csv
+
+# python stuff
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# jupyter stuff
+.ipynb_checkpoints/
+
+# mac stuff
+.DS_Store
+
+# env
+.env
+
+# ide stuff
+.vscode/
+.idea/
+
+# generated stuff
+model_card.html
+images/
+*.jpg
+*.zip
+Udacity_submission*
+*.joblib
+*.pkl
